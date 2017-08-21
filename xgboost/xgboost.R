@@ -1,5 +1,4 @@
-# XGBoost in R
-# Created by Yanitsa M.
+# XGBoost in R 
 
 # Importing the dataset
 dataset = read.csv('Churn_Modelling.csv')
