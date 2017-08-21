@@ -1,6 +1,5 @@
 """
 Decision Tree in Python
-@author: yanitsam
 """
 
 import numpy as np
